@@ -1,2 +1,2 @@
 # Assignments-coursera
-All assignments of coursera- html,css,js 
+Assignment3 of coursera- html,css,js 
